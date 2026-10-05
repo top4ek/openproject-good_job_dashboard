@@ -1,0 +1,8 @@
+---
+ru:
+  plugin_openproject_good_job_dashboard:
+    name: "Мониторинг GoodJob"
+    description: "Этот модуль добавляет возможность просматривать статистику фоновых обработчиков"
+    link: "Панель управления GoodJob"
+
+  project_module_good_job_dashboard: "GoodJob Dashboard"
